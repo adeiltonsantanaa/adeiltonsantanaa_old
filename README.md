@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/adeilton-santana-520092220/">
-  <img height="170em" width="20px" src="https://github-readme-stats.vercel.app/api?username=adeiltonsantanaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="250px" src="https://github-readme-stats.vercel.app/api?username=adeiltonsantanaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
